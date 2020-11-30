@@ -1,0 +1,6 @@
+D:\repositories\trpo\refl\delegats\bin\Debug\delegats.exe.config
+D:\repositories\trpo\refl\delegats\bin\Debug\delegats.exe
+D:\repositories\trpo\refl\delegats\bin\Debug\delegats.pdb
+D:\repositories\trpo\refl\delegats\obj\Debug\delegats.exe
+D:\repositories\trpo\refl\delegats\obj\Debug\delegats.pdb
+D:\repositories\trpo\refl\delegats\obj\Debug\delegats.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\repositories\trpo\refl\refl\bin\Debug\refl.exe.config
+D:\repositories\trpo\refl\refl\bin\Debug\refl.exe
+D:\repositories\trpo\refl\refl\bin\Debug\refl.pdb
+D:\repositories\trpo\refl\refl\obj\Debug\refl.csprojAssemblyReference.cache
+D:\repositories\trpo\refl\refl\obj\Debug\refl.exe
+D:\repositories\trpo\refl\refl\obj\Debug\refl.pdb
